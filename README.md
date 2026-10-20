@@ -2,11 +2,47 @@
 
 医学与生命科学素材、通用 PPT 图标、离线人体图谱与术式示意，以及供 AI 使用的素材检索和绘图流程。公开素材包包含 **23,192 条记录**：医学 19,286 条、通用 PPT 3,906 条。
 
+<!-- ASSET_PREVIEW_START -->
+## 素材预览
+
+以下为公开素材库中实际收录的部分原件。点击图片可放大查看；完整素材与检索程序见下方下载入口。
+
+| 细胞与细胞器 | 器官与组织 | 分子与测序 | 实验设备 |
+|:---:|:---:|:---:|:---:|
+| <a href="docs/preview/assets/macrophage.svg"><img src="docs/preview/assets/macrophage.svg" width="165" alt="巨噬细胞 · NIH-000311"></a><br>巨噬细胞 | <a href="docs/preview/assets/liver.svg"><img src="docs/preview/assets/liver.svg" width="165" alt="人肝脏 · NIH-000230"></a><br>人肝脏 | <a href="docs/preview/assets/dna.svg"><img src="docs/preview/assets/dna.svg" width="165" alt="DNA核酸 · NIH-000126"></a><br>DNA核酸 | <a href="docs/preview/assets/confocal-microscope.svg"><img src="docs/preview/assets/confocal-microscope.svg" width="165" alt="共聚焦显微镜 · NIH-000086"></a><br>共聚焦显微镜 |
+| <a href="docs/preview/assets/t-cell.svg"><img src="docs/preview/assets/t-cell.svg" width="165" alt="T细胞 · NIH-000508"></a><br>T细胞 | <a href="docs/preview/assets/pancreas.svg"><img src="docs/preview/assets/pancreas.svg" width="165" alt="人胰腺 · NIH-000239"></a><br>人胰腺 | <a href="docs/preview/assets/rna.svg"><img src="docs/preview/assets/rna.svg" width="165" alt="RNA核酸 · NIH-000452"></a><br>RNA核酸 | <a href="docs/preview/assets/pipette.svg"><img src="docs/preview/assets/pipette.svg" width="165" alt="移液器 · NIH-000408"></a><br>移液器 |
+| <a href="docs/preview/assets/mitochondrion.svg"><img src="docs/preview/assets/mitochondrion.svg" width="165" alt="线粒体 · NIH-000352"></a><br>线粒体 | <a href="docs/preview/assets/kidney.svg"><img src="docs/preview/assets/kidney.svg" width="165" alt="人肾脏 · NIH-000229"></a><br>人肾脏 | <a href="docs/preview/assets/antibody.svg"><img src="docs/preview/assets/antibody.svg" width="165" alt="抗体 · NIH-000018"></a><br>抗体 | <a href="docs/preview/assets/qpcr-machine.svg"><img src="docs/preview/assets/qpcr-machine.svg" width="165" alt="实时定量PCR仪 · NIH-000426"></a><br>实时定量PCR仪 |
+| <a href="docs/preview/assets/lysosome.svg"><img src="docs/preview/assets/lysosome.svg" width="165" alt="溶酶体 · NIH-000306"></a><br>溶酶体 | <a href="docs/preview/assets/heart.svg"><img src="docs/preview/assets/heart.svg" width="165" alt="人心脏 · NIH-000228"></a><br>人心脏 | <a href="docs/preview/assets/single-cell-rna-seq.svg"><img src="docs/preview/assets/single-cell-rna-seq.svg" width="165" alt="单细胞RNA测序示意 · NIH-000767"></a><br>单细胞RNA测序示意 | <a href="docs/preview/assets/flow-cytometer.png"><img src="docs/preview/assets/flow-cytometer.png" width="165" alt="流式细胞仪 · NIH-000160"></a><br>流式细胞仪 |
+
+这 16 件示例来自 **NIH BioArt**，作者 **Ryan Kissinger**，原素材为 **Public Domain**。逐项来源、许可和处理记录见 [预览素材署名](docs/preview/assets/CREDITS.md)。
+
+## 数据库 HTML 实际页面
+
+截图来自 `v2026.10.20-ccby` 公开发行包，保留页面中的素材、来源和操作区域。点击任意截图查看原尺寸。
+
+| 科研 PPT 素材 | 通用 PPT 素材 |
+|:---:|:---:|
+| <a href="docs/preview/assets/browser-ppt.png"><img src="docs/preview/assets/browser-ppt.png" width="420" alt="科研 PPT 素材实际页面截图"></a><br>Servier SMART 骨结构素材：Osteon，第 3 / 23 页。保留原作者标识与许可文字。 | <a href="docs/preview/assets/browser-general.png"><img src="docs/preview/assets/browser-general.png" width="420" alt="通用 PPT 素材实际页面截图"></a><br>图标网格、分类与统一配色；示例来源含 Tabler、Lucide、Bootstrap。 |
+
+| 医学素材检索 | 机器人与手术专题 |
+|:---:|:---:|
+| <a href="docs/preview/assets/browser-medical.png"><img src="docs/preview/assets/browser-medical.png" width="420" alt="医学素材检索实际页面截图"></a><br>细胞、器官和三维素材统一检索；图中首排为 B 细胞、树突状细胞、腹部器官场景和巨噬细胞。 | <a href="docs/preview/assets/browser-remote.png"><img src="docs/preview/assets/browser-remote.png" width="420" alt="机器人与手术专题实际页面截图"></a><br>dVRK 静态装配与远程手术专题；网络图来自机器人仿体上的远程演示研究。 |
+
+| 肝胆胰三维范围 | 人体解剖图谱 |
+|:---:|:---:|
+| <a href="docs/preview/assets/browser-surgery.png"><img src="docs/preview/assets/browser-surgery.png" width="420" alt="肝胆胰三维范围实际页面截图"></a><br>HRA 同源腹部结构与自定义局部范围圈，仅用于参考示意，不用于患者切缘或手术规划。 | <a href="docs/preview/assets/browser-atlas.png"><img src="docs/preview/assets/browser-atlas.png" width="420" alt="人体解剖图谱实际页面截图"></a><br>BodyParts3D 外耳原始合并网格示例，可旋转观察；不代表完整内部耳结构。 |
+
+页面内第三方素材分别保留原许可，截图不改变其授权条件。[查看作者、来源与完整许可声明](docs/preview/assets/CREDITS.md)。
+
+<!-- ASSET_PREVIEW_END -->
+
 **当前版本：[`v2026.10.20-ccby`](https://github.com/jerryyao46-ux/medical-research-illustration-library/releases/tag/v2026.10.20-ccby)。完整源码与素材包从该 Release 下载；当前仓库分支作为项目入口，完整源码以 ZIP 分发。**
 
 ## 下载与使用
 
 阅读、修改程序与工作流：下载[完整源码 ZIP](https://github.com/jerryyao46-ux/medical-research-illustration-library/releases/download/v2026.10.20-ccby/medical-research-illustration-library-source.zip)。解压后阅读 `README.md`；包内包含完整源码、文档、工具、测试及许可记录，不附内置素材数据。
+
+请下载上述手工上传的完整源码 ZIP；GitHub 自动生成的 `Source code (zip/tar.gz)` 不包含完整程序及素材。
 
 浏览完整素材库：下载以下**全部六卷**，依次解压到同一个父目录，合并共同的 `medical-illustration-library/` 文件夹，再双击其中的 `打开素材库.html`。
 

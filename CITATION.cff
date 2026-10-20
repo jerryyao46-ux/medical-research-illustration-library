@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this repository when sharing its original materials, and retain the attribution and licenses of any third-party materials. See ATTRIBUTION.md and LICENSE_SCOPE.md for reasonable attribution options and scope."
+type: software
+title: "医学科研绘图素材库"
+authors:
+  - name: "Medical Illustration Asset Library contributors"
+repository-code: "https://github.com/jerryyao46-ux/medical-research-illustration-library"
+url: "https://github.com/jerryyao46-ux/medical-research-illustration-library"
+version: "2026.10.20-ccby"
+license: CC-BY-4.0
+abstract: "Offline medical illustration and presentation asset library with AI drawing workflows. CC BY 4.0 applies to the project's original code, documentation, skills, graphics, and arrangements that the contributors have authority to license; third-party materials and software retain their own licenses."
+keywords:
+  - medical illustration
+  - scientific figures
+  - asset library
+  - PowerPoint
+  - offline browser
